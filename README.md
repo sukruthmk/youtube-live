@@ -1,9 +1,9 @@
 # youtube-live
 A simple youtube webapp to broadcast live stream and retrieve chats
 
-![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/1.jpg)
-![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/2.jpg)
-![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/3.jpg)
+![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/1.png)
+![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/2.png)
+![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/3.png)
 
 ### Installation ###
 
