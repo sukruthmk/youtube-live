@@ -10,6 +10,7 @@ A simple youtube webapp to broadcast live stream and retrieve chats
 * `php artisan migrate` to create tables
 
 Demo: [http://ec2-13-58-19-100.us-east-2.compute.amazonaws.com/youtube-live/public](http://ec2-13-58-19-100.us-east-2.compute.amazonaws.com/youtube-live/public)
+
 Youtube Demo: https://youtu.be/kyJm6rZxz9g
 
 ![Screenshot](https://raw.githubusercontent.com/sukruthmk/youtube-live/master/screenshots/1.png)
