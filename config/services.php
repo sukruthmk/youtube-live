@@ -36,10 +36,10 @@ return [
     ],
 
     'google' => array(
-        'app_name' => 'youtube',
-        'client_id' => '13013221589-kqqs2ncvnlo4kfaqr7ulehep1edsv9ie.apps.googleusercontent.com',
-        'client_secret' => 'LKh91MUXNcvrHPxRYG1H9oF7',
-        'api_key' => 'AIzaSyBWgAOaa07QuvvVFCEx1MAQ2Gk_pd3NlH0'
+        'app_name' => 'your app name',
+        'client_id' => 'google client id',
+        'client_secret' => 'google client secret',
+        'api_key' => 'google api key'
     ),
 
 ];
